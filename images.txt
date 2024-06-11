@@ -3,3 +3,9 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent:latest
+linuxserver/sonarr:latest
+allanpk716/chinesesubfinder
+linuxserver/radarr:latest
+linuxserver/emby:latest
+linuxserver/plex:latest
+linuxserver/jellyfin:laest
