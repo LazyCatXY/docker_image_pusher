@@ -9,3 +9,4 @@ linuxserver/radarr:latest
 linuxserver/emby:latest
 linuxserver/plex:latest
 linuxserver/jellyfin:laest
+linuxserver/jackett:laest
