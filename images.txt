@@ -8,5 +8,5 @@ allanpk716/chinesesubfinder
 linuxserver/radarr:latest
 linuxserver/emby:latest
 linuxserver/plex:latest
-linuxserver/jellyfin:laest
-linuxserver/jackett:laest
+linuxserver/jellyfin:latest
+linuxserver/jackett:latest
