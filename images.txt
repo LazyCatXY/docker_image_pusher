@@ -10,3 +10,4 @@ linuxserver/emby:latest
 linuxserver/plex:latest
 linuxserver/jellyfin:latest
 linuxserver/jackett:latest
+tinymediamanager/tinymediamanager:latest
