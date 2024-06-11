@@ -12,3 +12,4 @@ linuxserver/jellyfin:latest
 linuxserver/jackett:latest
 tinymediamanager/tinymediamanager:latest
 linuxserver/bazarr:latest
+superng6/subfinder:latest
