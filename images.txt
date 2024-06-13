@@ -14,3 +14,4 @@ tinymediamanager/tinymediamanager:latest
 linuxserver/bazarr:latest
 superng6/subfinder:latest
 linuxserver/ombi:latest
+nyanmisaka/jellyfin:latest
