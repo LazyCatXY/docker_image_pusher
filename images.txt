@@ -16,3 +16,4 @@ superng6/subfinder:latest
 linuxserver/ombi:latest
 nyanmisaka/jellyfin:latest
 fallenbagel/jellyseerr:latest
+linuxserver/plex:latest
