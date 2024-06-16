@@ -17,3 +17,4 @@ linuxserver/ombi:latest
 nyanmisaka/jellyfin:latest
 fallenbagel/jellyseerr:latest
 linuxserver/plex:latest
+jxxghp/moviepilot:latest
