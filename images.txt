@@ -19,3 +19,4 @@ fallenbagel/jellyseerr:latest
 linuxserver/plex:latest
 jxxghp/moviepilot:latest
 easychen/cookiecloud:latest
+19970688/nastools-bt:latest
