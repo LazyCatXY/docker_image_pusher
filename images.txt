@@ -20,3 +20,6 @@ linuxserver/plex:latest
 jxxghp/moviepilot:latest
 easychen/cookiecloud:latest
 19970688/nastools-bt:latest
+nastools/nas-tools:latest
+nastools/nas-tools:v2.9.1
+nastools/nas-tools:v3.2.2
