@@ -25,3 +25,4 @@ nastools/nas-tools:2.9.1
 allanpk716/chinesesubfinder:latest
 flik007/nastools-fixed:latest
 linuxserver/openvpn-as:latest
+likeflyme/cloudbak
